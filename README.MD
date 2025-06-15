@@ -13,7 +13,7 @@ Over the course of the event, I:
 
 ## 🔍 Challenge Summaries
 
-### 1. [`overnetwork`](./overnetwork)
+### 1. [`over-network`](./over-network)
 
 > **NFT-Based Social Platform (Move Smart Contract)**  
 > My most advanced and complete challenge. I built a decentralized social media system on Aptos using Move, with:
@@ -22,7 +22,7 @@ Over the course of the event, I:
 - Resource-based ownership of posts, comments, and likes
 - Global timelines, error management, and access control
 
-Smart contract-only — no frontend. View my [README](./overnetwork/README.md) for details.
+Smart contract-only — no frontend. View my [README](./over-network/README.md) for details.
 
 ---
 
