@@ -26,7 +26,7 @@ Smart contract-only — no frontend. View my [README](./over-network/README.md) 
 
 ---
 
-### 2. [`overnetwork-part2`](./overnetwork-part2)
+### 2. [`over-network-part2`](./over-network-part2)
 
 > **On-Chain Auth System – Frontend Quest**  
 > Completed a React/Next.js-based authentication UI for on-chain user management. Integrated Overmind-provided wallet libraries and Move contract calls.
@@ -34,7 +34,7 @@ Smart contract-only — no frontend. View my [README](./over-network/README.md) 
 - Implemented login/logout, user creation, and blockchain profile syncing
 - Worked within Overmind's provided frontend architecture
 
-I preserved the original Overmind quest [README](./overnetwork-part2/overnetwork-part2/README.md) for clarity.
+I preserved the original Overmind quest [README](./over-network-part2/over-network-part2/README.md) for clarity.
 
 ---
 
